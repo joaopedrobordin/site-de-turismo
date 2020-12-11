@@ -2,7 +2,7 @@
 body{
     font-size:verdana;
     line-height: 1.6;
-    background: #5cdb95;
+    background: #66e09d;
 
 }
 .conteiner{
@@ -19,6 +19,10 @@ body{
 .lugar h2 {
     border-bottom: 1px dashed #05386d;
     margin: 0px;
+}
+.lugar a{
+    color: #05386b;
+    font-weight: bold;
 }
 .conteiner{
     margin:0 auto;
@@ -54,8 +58,8 @@ color:#5cdb95 ;
     background: #8ee4af;
     border:1px solid #379683;
    padding:10px ; 
-    float:right ;
     width: 260px;
+    float:right ;
 }
 .lateral h3{
     font-size: 14px;
